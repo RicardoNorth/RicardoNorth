@@ -1,5 +1,5 @@
 ## Hi there 👋 This is **Libido**, a guy who's interested in product design and development.
-来自陕西咸阳的 04 年生，本科就读于合肥工业大学，主修 **大数据管理与应用**。对产品设计、前端开发和人工智能算法充满热情。
+04 年生于陕西咸阳，ENTP，本科就读于合肥工业大学，主修 **大数据管理与应用**。对产品设计、软件开发和人工智能算法充满热情。
 
 💼 **产品能力**  
 - 熟悉产品设计流程，能高效产出 PRD、流程图、脑图  
@@ -9,7 +9,7 @@
 💻 **技术能力**  
 - 熟练使用 **Axure RP9** 绘制高保真原型  
 - 前端栈：H5 · Sass · TypeScript · React · React Native · Vue  
-- 上线校园 APP「斛兵堂」，支持发帖、刷题、AI 问答等  
+- 上线校园 APP「斛兵堂」，支持社交、发帖、刷题、AI 问答等  
 - 熟悉 Python，能进行数据分析与文档检测自动化  
 - 熟练使用 GPT、StableDiffusion、SOVITS 等 AIGC 工具  
 
