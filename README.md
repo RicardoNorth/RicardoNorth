@@ -1,7 +1,7 @@
 ## Hi there 👋 This is **Libido**, a guy who's interested in product design and development.
 04 年生于陕西咸阳，ENTP，本科就读于合肥工业大学，主修 **大数据管理与应用**。对产品设计、软件开发和人工智能算法充满热情。
 
-💼 **产品这一块**  
+🎉 **产品这一块**  
 - 熟练使用 **Axure RP9** 绘制高保真原型  
 - 熟悉产品设计流程，能高效产出 PRD、流程图、脑图  
 - 参与制定地方标准：
@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white)
-- 熟悉 Python，能进行数据分析与文档检测自动化  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 熟悉 Python，能进行数据分析、编写自动化脚本、跑算法  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - 熟练使用 GPT、StableDiffusion、SOVITS 等 AIGC 工具  
 
 🚀 **项目这一块**  
@@ -30,12 +30,11 @@
 - 上线校园 APP「斛兵堂」，支持社交、发帖、刷题、AI 问答等  
 
 🏸 **运动这一块**  
-- 2024/2025 校羽毛球团体赛冠军与四强  
+- 2024校羽毛球团体赛冠军 | 2025校羽毛球团体赛冠军四强  
 - 环巢湖骑行一圈（160km）  
-- 班长、羽协老区会长，擅长协作与组织
 - 徒步 | 登山爱好者，目前到达的最高海拔：4300m
 
-📫 喜欢学习社会科学、计算机科学等领域，小说爱好者。
+📫 喜欢学习社会科学、计算机科学等领域，喜欢看小说，如有任何交流请随时邮箱litie326@163.com
 
 ---
 
