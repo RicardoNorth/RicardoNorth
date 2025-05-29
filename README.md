@@ -8,7 +8,16 @@
 
 💻 **技术能力**  
 - 熟练使用 **Axure RP9** 绘制高保真原型  
-- 前端栈：H5 · Sass · TypeScript · React · React Native · Vue  
+- 前端栈：H5 · Sass · TypeScript · React · React Native · Vue
+- ### 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - 上线校园 APP「斛兵堂」，支持社交、发帖、刷题、AI 问答等  
 - 熟悉 Python，能进行数据分析与文档检测自动化  
 - 熟练使用 GPT、StableDiffusion、SOVITS 等 AIGC 工具  
