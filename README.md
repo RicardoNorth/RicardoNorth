@@ -1,5 +1,4 @@
-## Hi there 👋 
-This is **Libido**, a guy who's interested in product design and development.
+## Hi there 👋 This is **Libido**, a guy who's interested in product design and development.
 来自陕西咸阳的 04 年生，本科就读于合肥工业大学，主修 **大数据管理与应用**。对产品设计、前端开发和人工智能算法充满热情。
 
 💼 **产品能力**  
