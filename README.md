@@ -1,5 +1,5 @@
 ## Hi there 👋 This is **Libido**, a guy who's interested in product design and development.
-04 年生于陕西咸阳，ENTP，本科就读于合肥工业大学，主修 **大数据管理与应用**。对产品设计、软件开发和人工智能算法充满热情。
+04 年生于陕西咸阳，ENTP，本科就读于合肥工业大学，主修 **大数据管理与应用**。兴趣使然的产品人。
 
 🎉 **产品这一块**  
 - 熟练使用 **Axure RP9** 绘制高保真原型  
